@@ -1,4 +1,4 @@
-# 질병군(심혈관계, 감염성 질병)별 중환자실 입실 기간 예측 및 주요 변수 탐색
+# 심혈관계 및 감염성 질병군 환자의 중환자실 입실 기간 예측
 > ⚠️Alert: DATASET NOT INCLUDED because of License issue
 
 ### 프로젝트 소개
