@@ -1,4 +1,4 @@
-# 질병별 중환자실 입실 기간 예측 프로젝트 (ICU Length of Stay Prediction by Disease Type)
+# 질병(심혈관계 질병, 감염성 질병)별 중환자실 입실 기간 예측
 > ⚠️Alert: DATASET NOT INCLUDED because of License issue
 
 ### 프로젝트 소개
